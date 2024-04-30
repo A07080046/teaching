@@ -1,16 +1,22 @@
 {
-    "title": "GitBook 使用教程",
-    "description": "记录 GitBook 的配置和一些插件的使用",
-    "author": "zhangjikai",
+    "title": "第一本书",
+    "description": "记录第一本书的内容",
+    "author": "walker",
     "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "plugins": [
-        "hide-element"
+        "-lunr", 
+        "-search", 
+        "search-pro",
+        "livereload",
+        "hide-element",
+        "ancre-navigation"
     ],
     "pluginsConfig": {
         "hide-element": {
-            "elements": [".gitbook-link"]
+            "elements": [".gitbook-link",".pull-right"]
         }
+    
     }
 }
