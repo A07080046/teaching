@@ -1,0 +1,11 @@
+.DS_Store
+unpackage/
+.hbuilderx/
+.vite/
+/node_modules
+/uni_modules
+*.epub
+*.docx
+.vscode
+id_rsa_github
+id_rsa_github.pub
