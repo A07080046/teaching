@@ -4,6 +4,7 @@ unpackage/
 .vite/
 /node_modules
 /uni_modules
+_book
 *.epub
 *.docx
 .vscode

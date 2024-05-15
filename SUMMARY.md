@@ -6,6 +6,6 @@
   * [详情](chapter01/detail.md)
   * [听抄](chapter01/listen.md) -->
 
-<!-- * [36课](try-teaching/index.md) -->
 * [介绍](README.md)
-* [语法点试讲](1.md)
+* 
+* [语法点](try-teaching/index.md)
