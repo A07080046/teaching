@@ -1,0 +1,5 @@
+# Dear examners:
+Good morning, thank you for this opportunity. First of all, I’d like to briefly introduce myself.
+My name is xxx and I graduated from the xxx university as a major of the xxx in 2012. When I was in the university, I spent most of my time to study the knowledge of my major, so after my graduation I started a job as an engineer of software development in a company. The most important thing I have learnt from my work is keep learning. There are so many new things and technologies emerged every day, so i should keep learning. I have a friend who teaches foreigners Chinese. so I have learnt from him so much.
+Now more and more foreigners find it useful to learn Chinese as a second language. this is a big needs of teaching Chinese and promoting Chinese Culture, I happen to like Chinese Calligraphy, which I can make good use of and share my understanding with them. It will  surely help their Chinese study.
+Hopefully I have made myself clear to you, thank you for your patience. And I think  I am ready for the next part, thank you.
